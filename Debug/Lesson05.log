@@ -1,0 +1,7 @@
+﻿  Demo.cpp
+E:\! Universitas Brawijaya\! MATKUL\Semester 5\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.h(28,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\! Universitas Brawijaya\! MATKUL\Semester 5\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.h(29,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\! Universitas Brawijaya\! MATKUL\Semester 5\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.h(30,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\! Universitas Brawijaya\! MATKUL\Semester 5\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(85,42): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\! Universitas Brawijaya\! MATKUL\Semester 5\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(88,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Lesson05.vcxproj -> E:\! Universitas Brawijaya\! MATKUL\Semester 5\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\Debug\Lesson05.exe
